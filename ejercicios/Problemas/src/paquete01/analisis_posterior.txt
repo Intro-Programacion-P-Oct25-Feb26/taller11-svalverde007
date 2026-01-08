@@ -1,0 +1,7 @@
+La parte que mas se me complico fue al momento de usar una condicional porque me 
+confundi en los valores e imprimia mal los valores, cometi el error de crear otra 
+variable y hacer todo mal, lo solucione revisando todo el codigo y eliminando 
+esa variable, la parte mas importante es la concatenacion de cadenas, aprendi a 
+no hacer las cosas al apuro.
+
+
