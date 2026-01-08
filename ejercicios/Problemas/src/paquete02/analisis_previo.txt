@@ -1,0 +1,5 @@
+Se debe desarrollar un codigo gestione el consumo eléctrico mediante cuatro funciones
+primero una que capture en un arreglo los nombres de las casas, segundo una función 
+que llene una matriz con los consumos mensuales, tercero una función que procese 
+la matriz para calcular la suma total anual de cada vivienda y la guarde en un
+ nuevo arreglo y la ultima funcion para mostrar un reporte en una sola cadena 
