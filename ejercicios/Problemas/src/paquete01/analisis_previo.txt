@@ -1,0 +1,20 @@
+
+El problema da un arreglo bidimensional y la funcion, en el proceso de codificacion
+el procedimiento debe recorrer completamente la estructura bidimensional y seleccionar 
+únicamente los elementos que sus valores sean pares, estos valores pares deben
+ser concatenados en una única cadena respetando el orden en que aparecen dentro
+del arreglo y esa cadena debe mostrarse por pantalla
+
+
+
+
+
+
+
+
+
+
+
+
+
+
