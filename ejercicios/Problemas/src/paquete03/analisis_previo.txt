@@ -1,0 +1,3 @@
+El problema pide que hagamos 3 procesos para calcular el area de un cuadrado, 
+triangulo y rectangulo, pidiendo al usuario los valores para realizar las operaciones
+seleccionando las opciones, en cada funcion se debe realizar cada operacion 
