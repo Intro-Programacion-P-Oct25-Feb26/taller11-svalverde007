@@ -1,0 +1,4 @@
+ya no me complico mucho porque ya con los ejemplos anteriores me voy guiando,
+la parte mas importante es el primer if porque con ese se puede determinar a que 
+procedimiento va a enviar al usuario, aprendi a como enviar valores por correspondencia
+y recibirlos con una letra como variable.

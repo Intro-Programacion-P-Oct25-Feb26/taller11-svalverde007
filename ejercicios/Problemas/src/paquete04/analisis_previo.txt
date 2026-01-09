@@ -1,0 +1,5 @@
+Se tiene que crear dos procedimientos para calcular el valor de la planilla de
+ luz y el impuesto predial, ambos con dos parámetros, el nombre y la cédula del
+ cliente, en el primer procedimiento, se debe ingresar el valor del kilovatio y
+ la cantidad consumida, y mostrar el total a pagar y en el segundo, ingresa el valor
+ del inmueble y se calcula el 2% como impuesto y muestra un reporte final.
