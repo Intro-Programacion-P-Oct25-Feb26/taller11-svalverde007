@@ -1,0 +1,5 @@
+Este problema pide crear una función y esa funcione tiene que recibir como parámetros
+ dos arreglos bidimensionales de enteros y retorne un nuevo arreglo que contenga
+ la suma de todos los elementos correspondientes, se debe invocar esta función 
+desde el método principal usando los arreglos proporcionados como ejemplo, y tenga
+una impresion de todos los valores ya sumados.

@@ -1,0 +1,4 @@
+no se me complico mucho pero me confundi al momento de enviar los arrgelos hacia
+la funcion, el error fue no poner "[]" para enviar los arreglos,la parte mas
+ importante es al momento de de enviar los arreglos porque si no se codifica bien 
+se confunde mucho
