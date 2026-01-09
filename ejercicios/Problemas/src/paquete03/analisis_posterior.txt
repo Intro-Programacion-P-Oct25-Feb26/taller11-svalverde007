@@ -1,0 +1,4 @@
+El problema no sem e complico mucho porque ya habiamos hecho el pseudocodigo y 
+fui ayudandome con eso, el error fue mio porque me confundi al momento del return
+la parte mas importante es la del if y las funciones porque si selecciona una opcion
+y en el if esta una funcion incorrecta el proceso va a estar todo mal
