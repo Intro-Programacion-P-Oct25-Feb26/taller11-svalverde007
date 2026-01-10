@@ -1,0 +1,5 @@
+La parte más difícil fue entender cómo obtener los elementos del  arreglo desde 
+teclado dentro de una función y que los devuelva correctamente, cometí el error 
+de intentar imprimir directamente desde la función en vez de retornar el arreglo,
+lo más importante es separar la función que genera el arreglo del procedimiento 
+que lo procesa

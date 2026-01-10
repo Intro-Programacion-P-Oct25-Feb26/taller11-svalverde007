@@ -1,0 +1,5 @@
+En este problema hay que trabajar con arreglos unidimensionales de cadenas y aplicar 
+funciones y procedimientos la función debe permitir al usuario ingresar por teclado
+ el número de elementos y luego capturar cada dato, como nombres de ciudades del 
+Ecuador, el procedimiento recibe ese arreglo y filtra únicamente las cadenas que
+ tengan 4 o 5 caracteres y las imprime en pantalla
