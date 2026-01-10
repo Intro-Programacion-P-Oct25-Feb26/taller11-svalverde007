@@ -1,0 +1,4 @@
+La parte más difícil de comprender fue cómo aplicar la fórmula de la desviación 
+estándar en código, lo más importante es estructurar las funciones para que trabajen
+Con este ejercicio aprendí la importancia de dividir el problema en pasos pequeños
+ y cómo llevar conceptos estadísticos a la práctica en programación.

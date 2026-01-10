@@ -1,0 +1,5 @@
+Hay que desarrollar dos funciones en la primera hay calcular y devolver la media 
+aritmética del arreglo como parámetro y la segunda función debe calcular 
+la desviación estándarecibiendo como parámetros el mismo arreglo y el valor de la
+ media calculada, las do sfunciones deben ser invocadas desde el método principal
+e imprimir los resultados obtenidos.
